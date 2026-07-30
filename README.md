@@ -27,7 +27,7 @@ quizzes and interactive features.
 ## My Contribution
 
 This was a four-member university group project. I served as the group
-leader and developed the home page, master page, login, registration
+leader and developed the home page, master page, login, registration, Theory,
 and user-authentication features. I also contributed to database
 integration, project testing and documentation.
 
