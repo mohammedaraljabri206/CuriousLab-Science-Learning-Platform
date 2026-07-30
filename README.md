@@ -40,8 +40,25 @@ integration, project testing and documentation.
 
 ## Screenshots
 
-Add screenshots of the home page, experiments, quiz, profile and
-administrator dashboard here.
+### Home Page
+
+![CuriousLab Home Page](Screenshots/Home_Page.png)
+
+### Login Page
+
+![CuriousLab Login Page](Screenshots/Login-Page.png)
+
+### Experiments Page
+
+![CuriousLab Experiments Page](Screenshots/Experiments.png)
+
+### Quiz Page
+
+![CuriousLab Quiz Page](Screenshots/Quiz.png)
+
+### Administrator Dashboard
+
+![CuriousLab Administrator Dashboard](Screenshots/Administrator-Dashboard.png)
 
 ## Academic Context
 
