@@ -42,11 +42,19 @@ integration, project testing and documentation.
 
 ### Home Page
 
-![CuriousLab Home Page](Screenshots/Home_Page.png)
+![CuriousLab Home Page](Screenshots/Home-Page.png)
 
 ### Login Page
 
-![CuriousLab Login Page](Screenshots/Login-Page.png)
+![CuriousLab Login Page](Screenshots/Login.png)
+
+### Register Page
+
+![CuriousLab Quiz Page](Screenshots/Register.png)
+
+### Theory Page
+
+![CuriousLab Quiz Page](Screenshots/Theory.png)
 
 ### Experiments Page
 
@@ -55,6 +63,10 @@ integration, project testing and documentation.
 ### Quiz Page
 
 ![CuriousLab Quiz Page](Screenshots/Quiz.png)
+
+### Feedback Page
+
+![CuriousLab Quiz Page](Screenshots/Feedback.png)
 
 ### Administrator Dashboard
 
